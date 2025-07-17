@@ -3,7 +3,7 @@
 **Version:** 2.0 (July 2025)  
 **Maintainers:** WirelessSec Community, Marcelo Burgos  
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e9174dc3-c2a3-4dde-8f0e-750e2988208b" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e9174dc3-c2a3-4dde-8f0e-750e2988208b" />
 
 
 ## Table of Contents
