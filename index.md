@@ -3,6 +3,9 @@
 **Version:** 2.0 (July 2025)  
 **Maintainers:** WirelessSec Community, Marcelo Burgos  
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e9174dc3-c2a3-4dde-8f0e-750e2988208b" />
+
+
 ## Table of Contents
 1. [Introduction](#1-introduction)  
 2. [Scope & Objectives](#2-scope--objectives)  
